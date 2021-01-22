@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - IQKeyboardManager (6.5.6)
+  - KRActivityIndicatorView (3.0.7)
+  - KRProgressHUD (3.4.7):
+    - KRActivityIndicatorView (= 3.0.7)
+  - ObjectMapper (3.5.3)
+  - UIViewController-Popup (0.0.4):
+    - VisualEffectView (= 3.0.0)
+  - VisualEffectView (3.0.0)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.2)
+  - IQKeyboardManager (~> 6.5)
+  - KRProgressHUD (~> 3.4.5)
+  - UIViewController-Popup (~> 0.0.4)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - IQKeyboardManager
+    - KRActivityIndicatorView
+    - KRProgressHUD
+    - ObjectMapper
+    - UIViewController-Popup
+    - VisualEffectView
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  KRActivityIndicatorView: ad69e89c4ce40c986cf580595be4829dcad0e35a
+  KRProgressHUD: a248f0bc6c9c2aed40a37b76e03ffecc7f85c887
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  UIViewController-Popup: 2b2ca7bfbfbd1ed2d51e524c47ff02e12680cb97
+  VisualEffectView: d47d295c68bf1b8648aa8e7d6eb4acf6dc18ea12
+
+PODFILE CHECKSUM: 1aa5d215dbced5df2b7cc02e07c5ee6104b4f6a3
+
+COCOAPODS: 1.9.3
