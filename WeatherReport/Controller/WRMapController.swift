@@ -120,6 +120,7 @@ extension WRMapController
         }) { (error) in
             DispatchQueue.main.async {
                 WRProgressHUDManager.showKRProgressHUD(false)
+                self.showAlert(title: Strings.AlertTitle, message: Strings.FailureOperation)
             }
         }
     }
